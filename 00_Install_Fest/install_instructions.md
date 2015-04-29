@@ -20,14 +20,13 @@ application. It can be found in Applications/Utilities.
 	* ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 	* The install page if you have trouble: [http://mxcl.github.io/homebrew/](http://mxcl.github.io/homebrew/)
 4.	__Install git__
-	*	```brew update```
 	*	```brew install git```
 
 5.	__Configure git with your Name and Email__
   	* [https://help.github.com/articles/setting-your-email-in-git](https://help.github.com/articles/setting-your-email-in-git)
   	* [https://help.github.com/articles/setting-your-username-in-git](https://help.github.com/articles/setting-your-username-in-git)
 
-6.	__Install RVM with Ruby 2.2.2__
+6.	__Install RVM with Ruby 2.2.1__
   	* ```\curl -L https://get.rvm.io | bash -s stable --ruby```
 
 7.	__Restart Your Terminal__
@@ -52,11 +51,14 @@ application. It can be found in Applications/Utilities.
   * run the commands below:
     * ```gem install rails 4.2.1 ```
 
+11a. __Install Atom Text Editor__
+ 	*https://atom.io/*
+
 11. __Sublime Link for Command Line Functionality (works for Sublime 3)
     * ```sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl ```
 
-11a. __Install Atom Text Editor__ 
- 	*https://atom.io/*
+11. __Sublime Link for Command Line Functionality (works for Sublime 3)
+		* ```sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl ```
 
 ##Ubuntu Linux Users
 

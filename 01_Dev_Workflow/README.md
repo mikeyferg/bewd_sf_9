@@ -27,8 +27,15 @@ Times below are an approximation
 | 60 min | __Using GitHub__ | This is specific to using GitHub for this course.|
 
 
+####Links to Ruby Docs 
+  Integer - http://ruby-doc.org/core-2.2.1/Integer.html
+  String - http://ruby-doc.org/core-2.2.1/String.html
+  Array - http://ruby-doc.org/core-2.2.1/Array.html
+  Hash - http://ruby-doc.org/core-2.2.1/Hash.html
+
+
 ###Homework
 
 *	Review bash and git commands.
 
-*	Read Chapters 1 thru 6 of ``Learn to Program`` (available on schoology)
+*	Read Chapters 1 thru 7 of ``Learn to Program`` (Electronic copy is available on Schoology)
